@@ -1,3 +1,5 @@
+# Additional python packages to be installed by MyBinder.org
+
 traitlets>=4.3.1
 ipython
 pandas

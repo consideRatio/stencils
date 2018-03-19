@@ -1,7 +1,13 @@
+# Additional tools to be installed by MyBinder.org
+
+vim
 texlive-latex-base
-texlive-latex-recommended
 texlive-science
 texlive-latex-extra
+texlive-fonts-extra
+texlive-generic-recommended
+texlive-latex-recommended
 texlive-fonts-recommended
+texlive-xetex
 dvipng
 ghostscript
